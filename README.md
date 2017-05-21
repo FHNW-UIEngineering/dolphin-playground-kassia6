@@ -33,6 +33,7 @@ The dirty state is also visualized via a CSS class (background color changes).
 The 'Name' field is marked as mandatory using a green border.
 
 ##Project Idea
+
 The basic concept of this application is the data from Cevi Dietikon. With this data we wan't to create some graphics similar to them we saw at the presentation of Mr. Koenig. We can differ the amount of male and female participants depending on their age or show who has a scout name or not. Which of the participants has already visited a course or what is his function. We think this is can be a good project for this workshop.
 
 ##Running the samples
